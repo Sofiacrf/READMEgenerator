@@ -15,9 +15,8 @@
  The following project allows a developer to generates a README.md file for a new project.
 
   ##  Technologies
-   \`\`\`
-   node.js
-    \`\`\`
+  * node.js
+
 
   ## Installation
   * Create a repo on GitHub
