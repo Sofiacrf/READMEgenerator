@@ -34,7 +34,11 @@
   It is useful for a developer to have a fast readMe generator that contains all the specifications of a good readMe file must have. 
 
   ## Test
-  Link to the demo: 
+  Link to the demo: https://drive.google.com/file/d/1gmmPvETbDNhmHYDiGY8G5Ohk1AxrZ5g6/view
+  ![Capture](./Capture.PNG)
+  ![Capture](./Capture5.PNG)
+   ![Capture](./Capture6.PNG)
+
 
   ## Questions
   For further questions please contact the author
